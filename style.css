@@ -242,7 +242,8 @@ span {
     }
 
     .about-img img {
-        width: 75rem;
+        max-width: 25rem;
+        margin-bottom: 4rem;
     }
 
     .about-content {
