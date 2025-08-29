@@ -54,7 +54,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 /*==================== Typed.js ====================*/
 // Configure Typed.js for the typing animation
 const typed = new Typed('.multiple-text', {
-    strings: ['Web Developer', 'Mobile Developer', 'UI/UX Designer'],
+    strings: ['Software Engineer', 'Web Developer', 'QA Engineer', 'Data Analyst'],
     typeSpeed: 100,         // Faster typing for nicer effect
     backSpeed: 60,          // Smooth backspacing
     loop: true,
